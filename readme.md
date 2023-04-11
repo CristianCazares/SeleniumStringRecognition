@@ -3,7 +3,7 @@
 <br>
 
 # Python + Selenium String recognition
-As a form of web scrapping, in this small project I am going to do a string recognition on a web page where `h2` and `span` tags are going to be used.
+As a form of web scrapping, in this small project I am going to do a string recognition on a web page to look for the content of `h2` and `span` tags. The script can be used for any text-related HTML tags.
 
 To achieve this, I am going to take advantage of the ease of use of Python and the robust set of tools of Selenium.
 Therefore let's initialized the project by installing it.
