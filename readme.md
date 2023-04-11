@@ -1,3 +1,7 @@
+### By: `Cristian Cázares`
+### April 10th 2023
+<br>
+
 # Python + Selenium String recognition
 As a form of web scrapping, in this small project I am going to do a string recognition on a web page where `h2` and `span` tags are going to be used.
 
@@ -121,3 +125,9 @@ def quit(self):
     self.driver.quit()
 ```
 
+## Execution screenshots:
+Right when the execution is started a web browser is launched:
+![Execution Image 1](https://raw.githubusercontent.com/CristianCazares/SeleniumStringRecognition/main/exec1.png)
+
+Then in this screenshot, we can see how the user already interacted with the program and it is already finished (which closes the web browser).
+![Execution Image 2](https://raw.githubusercontent.com/CristianCazares/SeleniumStringRecognition/main/exec2.png)
